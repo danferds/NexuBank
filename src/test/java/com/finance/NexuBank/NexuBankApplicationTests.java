@@ -1,4 +1,4 @@
-package com.finance.NexuBank;
+package com.finance.nexubank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
